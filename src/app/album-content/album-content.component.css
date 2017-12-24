@@ -1,7 +1,7 @@
 :host {
   display: block;
   position: relative;
-  top: -125px;
+  top: -62px;
   color: #efe9f3;
 }
 
@@ -9,18 +9,27 @@
   padding-bottom: 14px;
 }
 
-h2.tracks {
+h2.tracks-title, h2.videos {
+  position: relative;
+  left: 40px;
   padding-bottom: 6px;
 }
 
-.track {
-  width: 157px;
+.tracklist {
+  color:#7d8082;
+}
+
+.track, .one-more-shot-video {
+  width: 180px;
   position: relative;
-  left: -42px;
   list-style: none;
 }
 
 li {
   font-size: 0.667em;
-  padding-bottom: 3px;
+  margin-bottom: -10px;
+}
+
+.track-padding {
+  padding-right: 1em
 }

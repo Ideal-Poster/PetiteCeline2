@@ -1,6 +1,7 @@
 :host {
   display: block;
   background: #dccae1;
+  line-height: 1.5em;
 }
 
 /deep/body {

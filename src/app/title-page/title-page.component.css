@@ -1,3 +1,8 @@
+:host {
+  display:  block;
+  color: #efe9f3;
+}
+
 .portrait {
   width: 737px;
   height: 502px;
@@ -12,7 +17,6 @@ h1.petite-celine {
   top: 77px;
   width: 323px;
   height: 171px;
-  color: #efe9f3;
   font-weight: 400;
   line-height: 84px;
 }

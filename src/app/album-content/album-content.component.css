@@ -1,0 +1,26 @@
+:host {
+  display: block;
+  position: relative;
+  top: -125px;
+  color: #efe9f3;
+}
+
+.young-soldier {
+  padding-bottom: 14px;
+}
+
+h2.tracks {
+  padding-bottom: 6px;
+}
+
+.track {
+  width: 157px;
+  position: relative;
+  left: -42px;
+  list-style: none;
+}
+
+li {
+  font-size: 0.667em;
+  padding-bottom: 3px;
+}

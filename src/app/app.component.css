@@ -3,10 +3,22 @@
   background: #dccae1;
 }
 
+/deep/body {
+  font-size: 24px;
+}
+
 /deep/.cardo {
   font-family: 'Cardo', serif;
 }
 
+/deep/.carrois-gothic{
+  font-family: 'Carrois Gothic SC', sans-serif;
+}
+
 /deep/h1 {
-  font-size: 121px;
+  font-size: 5.063em;
+}
+
+/deep/h2 {
+  font-size: 1.5em;
 }

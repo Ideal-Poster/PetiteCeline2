@@ -2,3 +2,11 @@
   display: block;
   background: #dccae1;
 }
+
+/deep/.cardo {
+  font-family: 'Cardo', serif;
+}
+
+/deep/h1 {
+  font-size: 121px;
+}

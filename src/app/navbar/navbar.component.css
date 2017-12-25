@@ -1,4 +1,6 @@
 :host {
   display: block;
   height: 106px;
+  position: relative;
+  top: 30px;
 }

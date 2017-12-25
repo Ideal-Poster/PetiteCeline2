@@ -5,6 +5,10 @@
   color: #efe9f3;
 }
 
+.album {
+  width: 300px;
+}
+
 .young-soldier {
   padding-bottom: 14px;
 }
@@ -15,14 +19,11 @@ h2.tracks-title, h2.videos {
   padding-bottom: 6px;
 }
 
-.tracklist {
-  color:#7d8082;
-}
-
-.track, .one-more-shot-video {
+.track, ul.videos {
   width: 180px;
   position: relative;
   list-style: none;
+  color:#85898c;
 }
 
 li {

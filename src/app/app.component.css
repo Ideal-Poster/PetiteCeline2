@@ -2,6 +2,9 @@
   display: block;
   background: #dccae1;
   line-height: 1.5em;
+  min-height: 100vh;
+}
+.container {
 }
 
 /deep/body {
@@ -14,6 +17,10 @@
 
 /deep/.carrois-gothic{
   font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+/deep/.container {
+  max-width: 4000px;
 }
 
 /deep/h1 {

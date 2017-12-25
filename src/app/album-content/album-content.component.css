@@ -5,25 +5,22 @@
   color: #efe9f3;
 }
 
-.album {
-  width: 300px;
-}
-
 .young-soldier {
   padding-bottom: 14px;
 }
 
-h2.tracks-title, h2.videos {
-  position: relative;
-  left: 40px;
-  padding-bottom: 6px;
+.tracklist {
+  padding-left: 106px;
+}
+
+.videos {
+  padding-left: 102px;
 }
 
 .track, ul.videos {
-  width: 180px;
   position: relative;
   list-style: none;
-  color:#85898c;
+  color: #85898c;
 }
 
 li {
